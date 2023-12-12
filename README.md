@@ -21,10 +21,6 @@
           <br>React
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=redux" alt="icon" width="65" height="65" />
-          <br>Redux
-        </td>
-        <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=fastapi" alt="icon" width="65" height="65" />
           <br>FastAPI
         </td>

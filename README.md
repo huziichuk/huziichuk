@@ -1,6 +1,6 @@
 ### 👨 &nbsp;About Me
 👋 &nbsp;My name is Nazar.\
-🏫 &nbsp;I study college.\
+🏫 &nbsp;I study in college.\
 ✍️ &nbsp;I am developing web applications.
 
 <img alt="Night Coding" src="https://i.imgur.com/MfXGIDb.png" width="320" height="320" align="right"/> 

@@ -74,5 +74,9 @@
             <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
           <br>VSCode
         </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="VsCode" />
+          <br>Discord
+        </td>
     </tr>
 </table>

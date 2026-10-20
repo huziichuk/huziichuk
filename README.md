@@ -2,7 +2,6 @@
 👋 &nbsp;My name is Nazar.\
 🏫 &nbsp;I study in Turku University of Applied Sciences.\
 ✍️ &nbsp;I am developing web applications.\
-🛜 &nbsp;My website [nazarhuziichuk.com](https://nazarhuziichuk.com/).\
 💬 &nbsp;You can find me on [Telegram](https://t.me/guziiuchyk).
 <img alt="Night Coding" src="https://i.imgur.com/MfXGIDb.png" width="320" height="320" align="right"/> 
 
